@@ -22,7 +22,7 @@ Building practical projects • Learning continuously • Growing one step at a 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramana-codes25&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ramana-codes25&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ramana-codes25&theme=tokyonight&hide_border=true" />
