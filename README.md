@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramana R</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Building+Projects+Step+by+Step;Open+to+Collaboration;Always+Learning+Something+New" />
+</p>
 
 <h3 align="center"> Aspiring Java Developer | Web Enthusiast | Lifelong Learner </h3>
 
