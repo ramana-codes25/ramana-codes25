@@ -18,7 +18,7 @@ Building practical projects • Learning continuously • Growing one step at a 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,postgresql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,postgresql,html,css,bootstrap,js,git,github,vscode" />
 </p>
 
 ### 💬 Ask Me About
