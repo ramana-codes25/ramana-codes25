@@ -22,11 +22,12 @@ Building practical projects • Learning continuously • Growing one step at a 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ramana-codes25&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramana-codes25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ramana-codes25&theme=tokyonight&hide_border=true" />
 </p>
+
 ### 💬 Ask Me About
 HTML • CSS • JavaScript • Java • SQL • Web Design
 
