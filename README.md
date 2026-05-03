@@ -31,6 +31,10 @@ Building practical projects • Learning continuously • Growing one step at a 
   <img src="https://streak-stats.demolab.com?user=ramana-codes25&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramana-codes25&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ### 💬 Ask Me About
 HTML • CSS • JavaScript • Java • SQL • Web Design
 
