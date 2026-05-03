@@ -16,9 +16,13 @@ Building practical projects • Learning continuously • Growing one step at a 
 - 🎯 Goal: Become a skilled Software Developer through consistent building
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,postgresql,html,css,bootstrap,js,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramana-codes25&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 💬 Ask Me About
