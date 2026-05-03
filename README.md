@@ -15,6 +15,12 @@ Building practical projects • Learning continuously • Growing one step at a 
 - 🤝 Open to collaboration on beginner-friendly projects and open source
 - 🎯 Goal: Become a skilled Software Developer through consistent building
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql" />
+</p>
+
 ### 💬 Ask Me About
 HTML • CSS • JavaScript • Java • SQL • Web Design
 
