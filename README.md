@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ramana R</h1>
 
-<!--
-**ramana-codes25/ramana-codes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Aspiring Java Developer | Web Enthusiast | Lifelong Learner </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building practical projects • Learning continuously • Growing one step at a time
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Computer Applications Graduate
+- 🌱 Currently learning **Java, Full Stack Development & Git**
+- 💡 Interested in building clean and useful digital products
+- 🤝 Open to collaboration on beginner-friendly projects and open source
+- 🎯 Goal: Become a skilled Software Developer through consistent building
+
+### 💬 Ask Me About
+HTML • CSS • JavaScript • Java • SQL • Web Design
+
+### ⚡ A Small Fact
+> I believe small daily progress builds strong careers.
+
+### 📫 Connect
+📍 Chennai, India  
+📧 ramana.network24@gmail.com
